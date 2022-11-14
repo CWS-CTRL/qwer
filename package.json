@@ -1,0 +1,20 @@
+{
+  "name": "qwer",
+  "version": "1.0.0",
+  "description": "qwer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CWS-CTRL/qwer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CWS-CTRL/qwer/issues"
+  },
+  "homepage": "https://github.com/CWS-CTRL/qwer#readme"
+}
